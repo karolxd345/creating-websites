@@ -1,0 +1,20 @@
+html {
+    background: whitesmoke;
+}
+
+
+.playwrite-gb-s-Karolweb {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font: 300;
+  font-style: normal;
+  background-color: bisque;
+  
+}
+
+.ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: blueviolet;
+  }
